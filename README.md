@@ -1,4 +1,4 @@
-## Used technologies:
+## Used Technologies:
 
-    1. React
-    2. Tailwind
+> 1. React
+> 2. Tailwind
